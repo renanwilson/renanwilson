@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi There, Im Renan Wilson 👋
 
-<!--
-**renanwilson/renanwilson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me, my name is Renan Wilson Aves da Silva and I have 18 years old, I was born in São Paulo, Brazil. I am currently a systems development technologist and work for LoftCred as Front-End development.
+<br>
 
-Here are some ideas to get you started:
+### This is my LinkedIn if you want to send message
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+)](https://www.linkedin.com/in/renan-alves-a23104194)
+
+<br>
+
+## Here is my GitHub Stats, the most are private, that's why they don't show up 
+
+![Renan GitHub stats](https://github-readme-stats.vercel.app/api?username=renanwilson&show_icons=true&theme=synthwave)
+
+<br>
+
+## And here is my favorites languages ❤️ accordingly the GitHub
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renanwilson&layout=compact&theme=synthwave)](https://github.com/renanwilson/github-readme-stats)   
