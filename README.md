@@ -10,17 +10,7 @@
 
 <br>
 
-## Here is my GitHub Stats, the most are private, that's why they don't show up 
 
-![Renan GitHub stats](https://github-readme-stats.vercel.app/api?username=renanwilson&show_icons=true&theme=synthwave)
-
-<br>
-
-## And here is my favorites languages ❤️ accordingly the GitHub
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renanwilson&layout=compact&theme=synthwave)](https://github.com/renanwilson/github-readme-stats)   
-
-<br>
 
 ## Thanks for see, if you want see my repositories 💻
 
