@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Renan Wilson</h1>
-<h3>About Me, my name is Renan Wilson Aves da Silva and I'm 21 years old, I was born in São Paulo, Brazil. I am currently a systems development technologist, acting as Front-End and Web developer.</h3>
+<h3>About Me, my name is Renan Wilson Aves da Silva and I'm 22 years old, I was born in São Paulo, Brazil. I am currently a systems development technologist, acting as Front-End and Web developer.</h3>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=renanwilson&show_icons=true&locale=en" alt="renanwilson" /></p>
 
 <h3 align="left">Connect with me:</h3>
